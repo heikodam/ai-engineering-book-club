@@ -63,7 +63,7 @@ function App() {
   return (
     <div className="App">
       <header className="app-header">
-        <h1>🤖 Chapter 4: AI System Evaluation Made Simple</h1>
+        <h1>📖 Chapter 4: Evaluate AI Systems</h1>
         <p className="subtitle">Learn how to evaluate AI systems like a pro!</p>
       </header>
       

@@ -77,8 +77,8 @@ function App() {
     <div className="app_container">
       <nav className="sidebar_navigation">
         <div className="sidebar_header">
-          <h1>🤖 AI Concepts</h1>
-          <p>Chapter 3: AI Engineering</p>
+          <h1>📖 Chapter 3</h1>
+          <p>Evaluating Methodology</p>
         </div>
         
         <div className="sidebar_content">
