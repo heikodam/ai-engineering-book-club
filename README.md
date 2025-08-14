@@ -114,17 +114,17 @@ This repository follows **"AI Engineering: Building Applications with Foundation
 
 ```
 learning-ai/
-├── ai-concepts-teacher/           # Chapter 3: Information Theory
-│   ├── src/components/           # Interactive learning components
-│   ├── src/App.js               # Main navigation and layout
-│   ├── src/App.css              # Beautiful styling
-│   ├── package.json             # Dependencies
-│   └── README.md                # Chapter 3 specific docs
-├── chapter_4_ai_evaluation/     # Chapter 4: Model Evaluation
-│   ├── src/                     # Evaluation tools and interfaces
-│   ├── package.json             # Dependencies
-│   └── README.md                # Chapter 4 specific docs
-└── README.md                    # This file - main documentation
+├── chapter-3-evaluating-methodology/  # Chapter 3: Evaluating Methodology
+│   ├── src/components/                 # Interactive learning components
+│   ├── src/App.js                      # Main navigation and layout
+│   ├── src/App.css                     # Beautiful styling
+│   ├── package.json                    # Dependencies
+│   └── README.md                       # Chapter 3 specific docs
+├── chapter-4-evaluate-ai-systems/     # Chapter 4: Evaluate AI Systems
+│   ├── src/                            # Evaluation tools and interfaces
+│   ├── package.json                    # Dependencies
+│   └── README.md                       # Chapter 4 specific docs
+└── README.md                           # This file - main documentation
 ```
 
 ## 🎓 Who Is This For?
