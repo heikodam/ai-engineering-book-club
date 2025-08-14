@@ -6,8 +6,8 @@ A comprehensive learning repository following **"AI Engineering: Building Applic
 
 ## 🗂️ Repository Structure
 
-### 📖 Chapter 3: Information Theory for AI
-**📁 `ai-concepts-teacher/`**
+### 📖 Chapter 3: Evaluating Methodology  
+**📁 `chapter-3-evaluating-methodology/`**
 
 An interactive React application that teaches fundamental AI concepts with zero technical background required.
 
@@ -24,13 +24,13 @@ An interactive React application that teaches fundamental AI concepts with zero 
 
 **🚀 Quick Start:**
 ```bash
-cd ai-concepts-teacher
+cd chapter-3-evaluating-methodology
 npm install
 npm start
 ```
 
-### 📖 Chapter 4: AI Model Evaluation
-**📁 `chapter_4_ai_evaluation/`**
+### 📖 Chapter 4: Evaluate AI Systems
+**📁 `chapter-4-evaluate-ai-systems/`**
 
 Practical implementations and tools for evaluating AI models in production.
 
@@ -42,7 +42,7 @@ Practical implementations and tools for evaluating AI models in production.
 
 **🚀 Quick Start:**
 ```bash
-cd chapter_4_ai_evaluation
+cd chapter-4-evaluate-ai-systems
 npm install
 npm start
 ```
